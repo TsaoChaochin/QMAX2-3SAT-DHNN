@@ -1,2 +1,3 @@
 # QMAX2,3SAT-DHNN
-Implement QMAX2,3SAT into DHNN and update the neurons
+QMAX2,3SAT is embedded into DHNN
+Neuron states are updated for information fusion
